@@ -1,4 +1,5 @@
 Project Overview:
+
 This repository contains an exploratory data analysis (EDA) workflow for detecting and profiling banking risk using customer, financial, and behavioral data from Paisabazaar. The goal is to extract actionable insights on risk factors and fraud occurrences and provide a robust basis for predictive modeling.
 
 Data Description
@@ -8,7 +9,9 @@ Key Variables: Customer attributes (Age, Occupation, Region), Credit Score, Annu
 
 Data Cleaning: Duplicate removal, missing value checks, and domain-based capping of outliers.
 
-Analysis Steps
+
+Analysis Steps:
+
 Univariate Analysis:
 
 Explores distributions of features such as Annual Income, Debt-to-Income Ratio, and Credit Score.
