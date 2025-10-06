@@ -14,13 +14,13 @@ Analysis Steps:
 
 Univariate Analysis:
 
-Explores distributions of features such as Annual Income, Debt-to-Income Ratio, and Credit Score.
+Explores distributions of features such as Annual Income, Debt-to-Income Ratio, and Age.
 
 Charts: Histograms, Boxplots, Countplots.
 
 Bivariate Analysis:
 
-Investigates relationships between customer/financial features and fraud rate (e.g., Age vs Fraud_Flag, Occupation vs Fraud_Flag, Credit Utilization vs Credit Score).
+Investigates relationships between customer and financial features.
 
 Charts: Boxplots, Violin plots, Grouped barplots.
 
@@ -28,7 +28,7 @@ Multivariate Analysis:
 
 Identifies high-risk clusters by combining features (e.g., Age, Income, Region, Credit Score).
 
-Charts: Pairplots, Heatmaps, FacetGrids.
+Charts: Pairplots, Heatmaps.
 
 Feature Engineering:
 
