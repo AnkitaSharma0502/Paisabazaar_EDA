@@ -1,4 +1,4 @@
-<img width="1907" height="1000" alt="image" src="https://github.com/user-attachments/assets/bbba0ce6-417a-47ec-a274-d0fb4e483e1e" />
+
 Link for dashboard : https://public.tableau.com/views/Paisabazaar_Credit_Score_Analysis/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Paisabazaar Credit Score Analysis (EDA + Dashboard)
@@ -7,8 +7,16 @@ Link for dashboard : https://public.tableau.com/views/Paisabazaar_Credit_Score_A
 This repository presents an end-to-end Exploratory Data Analysis (EDA) workflow focused on credit risk detection and profiling using customer, financial, and behavioral data from Paisabazaar.  
 The objective is to uncover actionable risk drivers, analyze fraud-prone patterns, and create a strong analytical foundation for future predictive modeling and credit decision systems.
 
+<img width="1907" height="1000" alt="image" src="https://github.com/user-attachments/assets/bbba0ce6-417a-47ec-a274-d0fb4e483e1e" />
 
 
+<img width="1640" height="846" alt="image" src="https://github.com/user-attachments/assets/e202b45a-9927-4dc3-b181-5ab2da216f8b" />
+
+
+<img width="990" height="553" alt="image" src="https://github.com/user-attachments/assets/07882064-24a6-4942-bd46-68fc474ae79d" />
+
+
+<img width="1000" height="829" alt="image" src="https://github.com/user-attachments/assets/5b56e284-348c-4ded-befc-33dd9757ed63" />
 
 
 
