@@ -89,6 +89,5 @@ Created domain-driven features to enhance risk profiling:
 
 ## Author
 Ankita Sharma  
-Final Year B.Tech (Computer Science)  
-Aspiring Data Analyst / Risk Analytics Engineer
+Aspiring Data Analyst 
 
